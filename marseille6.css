@@ -60,7 +60,7 @@ header{
 
   /* body */
   body{
-      background-image: url(Asset/img/Contact.gif);
+      background-image: url(asset/img/Contact.gif);
       background-attachment: fixed;
       margin: 0;
       padding: 0;
