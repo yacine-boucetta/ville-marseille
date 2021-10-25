@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap%27);
+
+.RandoBody{
+    font-family: poppins;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.RandoTitre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.slide1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4%;
+    background-image: url(img/Sugiton.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    border: solid;
+}   
+
+.slide2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4%;
+    background-image: url(img/CroixSaintMarcel.jpg);
+    background-position: 50% 25%;
+    background-size: cover;
+    border-radius: 20px;
+    border: solid;
+}
+
+.slide3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4%;
+    background-image: url(img/VallonEveque.jpg);
+    background-position: 50% 20%;
+    background-size: cover;
+    border-radius: 20px;
+    border: solid;
+}
+
+.slide4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4%;
+    background-image: url(img/MontCarpiagne.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    border: solid;
+}
+
+p{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.479);
+    border-radius: 20px;
+    font-weight: bolder;
+    border: solid 5px;
+    border-color: black;
+}
+
+h2{
+    font-size: medium;
+    text-align: center;
+}
+
+body{
+    background-image: url(img/OHMARSEILLEUH.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
